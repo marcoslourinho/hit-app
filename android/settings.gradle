@@ -1,0 +1,3 @@
+rootProject.name = 'hit'
+
+include ':app'
